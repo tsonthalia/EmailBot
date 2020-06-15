@@ -1,0 +1,24 @@
+{
+  "name": "emailbot",
+  "version": "1.0.0",
+  "description": "Uses nodemailer and a google sheets document to send out mass emails",
+  "main": "index.js",
+  "dependencies": {
+    "g-sheets-api": "^1.3.0",
+    "nodemailer": "^6.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsonthalia/EmailBot.git"
+  },
+  "author": "Tanay Sonthalia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsonthalia/EmailBot/issues"
+  },
+  "homepage": "https://github.com/tsonthalia/EmailBot#readme"
+}
